@@ -1,0 +1,7 @@
+
+Matrix Exponentiation
+
+This is one of the most used techniques in competitive programming. Let us first consider below simple question.
+What is the minimum time complexity to find n’th Fibonacci Number?
+We can find n’th Fibonacci Number in O(Log n) time using Matrix Exponentiation. Refer method 4 of this for details. In this post, a general implementation of Matrix
+https://www.geeksforgeeks.org/matrix-exponentiation/
